@@ -1,0 +1,8 @@
+non_pii_keys:
+    whjr:
+    - name
+    -lastname
+    - project
+    - manager 
+    - assigned
+    - company
